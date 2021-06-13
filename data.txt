@@ -1,4 +1,4 @@
-db 4bit
+db 8bit
 dw 16bit
 dd 32bit
 dq 64bit
