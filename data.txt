@@ -1,0 +1,6 @@
+db 4bit
+dw 16bit
+dd 32bit
+dq 64bit
+ddq 128bit
+dt 80bit
