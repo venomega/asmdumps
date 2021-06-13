@@ -1,7 +1,7 @@
 # asmdumps
 
 
-All this code is compiled using NASM on x86
+All this code is compiled using NASM x86 on GNU/Linux
 
 ```
 nasm -f elf program.asm
