@@ -13,4 +13,7 @@ qemu-system-i386 ./program.img
 	
 ## nordic_runes
 	translate mesages into another ascii charapter and simultaneously restart every 10s
+
+## pyramid
+	simple brick arrangement
 	
