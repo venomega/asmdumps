@@ -19,6 +19,6 @@ qemu-system-i386 ./program.img
 
 ## assambley_runner
 	mini game inspired on chrome's dino game
-	[![asciicast](https://asciinema.org/a/513310.svg)](https://asciinema.org/a/513310)
+[![asciicast](https://asciinema.org/a/513310.svg)](https://asciinema.org/a/513310)
 
 	
