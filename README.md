@@ -16,4 +16,9 @@ qemu-system-i386 ./program.img
 
 ## pyramid
 	simple brick arrangement
+
+## assambley_runner
+	mini game inspired on chrome's dino game
+	[![asciicast](https://asciinema.org/a/513310.svg)](https://asciinema.org/a/513310)
+
 	
